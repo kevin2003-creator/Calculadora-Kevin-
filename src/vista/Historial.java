@@ -74,7 +74,7 @@ public class Historial extends javax.swing.JFrame {
     }//GEN-LAST:event_txt_historialActionPerformed
 
     private void cerrarhActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cerrarhActionPerformed
-        // TODO add your handling code here:
+    dispose();
     }//GEN-LAST:event_cerrarhActionPerformed
 
     /**
